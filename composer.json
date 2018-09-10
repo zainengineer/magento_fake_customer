@@ -1,0 +1,14 @@
+{
+    "name": "aligent/customer_faker",
+    "description": "generate fake magento customers",
+    "type": "project",
+    "require": {
+        "fzaninotto/faker": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "Zain ul abidin",
+            "email": "zain@aligent.com.au"
+        }
+    ]
+}
