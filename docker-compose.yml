@@ -1,0 +1,8 @@
+version: '2'
+services:
+  php-apache:
+    image: php:apache
+    ports:
+      - "8035:80"
+    volumes:
+      - $PWD:/var/www/html
